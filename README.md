@@ -8,3 +8,5 @@ Esto es un segundo cambio
 +++++++++++++++++++++++++
 
 Este es otro cambio...
+
+![](Ejercicio2-img1.gif)
